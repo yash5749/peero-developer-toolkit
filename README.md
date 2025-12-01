@@ -27,17 +27,7 @@ Generate a production-ready backend in seconds:
 No install needed:
 
 
-## 🚀 Features
 
-- Pure ES6 modules (import/export everywhere)
-- Express server with clean architecture
-- MongoDB + Mongoose setup
-- JWT authentication
-- Hashing with bcryptjs
-- ApiError, ApiResponse, asyncHandler utils
-- Auto `.env` generation
-- Auto dependency installation
-- Scalable folder structure
 
 ## 📦 Usage
 
