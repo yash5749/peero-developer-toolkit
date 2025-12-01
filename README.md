@@ -93,8 +93,14 @@ myapp/
 
 # 🔧 Scripts
 
-npm run dev # start development server using nodemon
-npm start # start without nodemon
+### start development server using nodemon
+```shell
+npm run dev
+ ```
+### start without nodemon
+```shell
+npm start
+```` 
 
 # ⚙️ Requirements
 
