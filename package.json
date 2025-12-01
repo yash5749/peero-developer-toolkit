@@ -1,16 +1,30 @@
 {
   "name": "peero-x-backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "A modern Express backend generator using ES Modules. Part of the Peero Developer Toolkit.",
   "type": "module",
+  "main": "index.js",
   "bin": {
-    "peero-x-backend": "bin/index.js"
+    "peero-x-backend": "./bin/index.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "files": [
+    "bin/",
+    "src/",
+    "templates/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "cli",
+    "backend",
+    "express",
+    "generator",
+    "scaffolding",
+    "peero",
+    "esm",
+    "mongoose",
+    "starter"
+  ],
+  "author": "Yash Maurya (Peero)",
+  "license": "MIT"
 }
