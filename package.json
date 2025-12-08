@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "peero-x-backend": "./bin/index.js"
+    "peero-x-backend": "bin/index.js"
   },
   "files": [
     "bin/",
